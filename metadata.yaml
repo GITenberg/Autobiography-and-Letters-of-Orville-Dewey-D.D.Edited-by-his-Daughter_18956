@@ -1,0 +1,33 @@
+_repo: Autobiography-and-Letters-of-Orville-Dewey-D.D.Edited-by-his-Daughter_18956
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dewey, Orville
+    birthdate: 1794
+    deathdate: 1882
+    gutenberg_agent_id: '8364'
+    url: http://www.gutenberg.org/2009/agents/8364
+    wikipedia: http://en.wikipedia.org/wiki/Orville_Dewey
+  editor:
+    agent_name: Dewey, Mary Elizabeth
+    birthdate: 1821
+    deathdate: 1910
+    gutenberg_agent_id: '8365'
+    url: http://www.gutenberg.org/2009/agents/8365
+description: ''
+gutenberg_issued: '2006-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Dewey, Orville, 1794-1882'
+title: "Autobiography and Letters of Orville Dewey, D.D.\r\nEdited by His Daughter"
+url: http://www.gutenberg.org/ebooks/18956
